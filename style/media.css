@@ -1,0 +1,159 @@
+@media(max-width:1180px ){
+    .links{
+        padding-left: 0px;
+    }
+    .h1span {
+        font-weight: 400;
+        font-size: 39px;
+    }
+    .section-p{
+        width: 518px;
+
+    }
+    .conteiner{
+        width: 1000px;
+        padding: 0 10px;
+    }
+    .cont{
+        width: 100%;
+    }
+    .vpn-ledi{ 
+             width: 400px;
+    }
+    .vpnman{
+        width: 400px;
+    }
+    .right-box {
+        margin-left: 75px;
+    }
+    .col-4 {
+        width: 100%;
+    }
+   .mapimg {
+    width: 100%;
+   }
+    .subscribe {
+        width: 100%;
+        margin-left: 5px;
+    }
+    .col-8{
+        width: 100%;
+    }
+    .col-6{
+        width: 100%;
+    }
+    .footer-right {
+               margin-left: 72px;
+    }
+    .kart-info3{
+       display: none;
+    }
+    .sponsorsimg {
+        width: 100%;
+    }
+    .img-box{
+       margin-left: 74px;
+    }
+    .chekbox2{
+        margin-left:45px ;
+    }
+    .select{
+        margin-left: 60px;
+    }
+    .select3{
+      margin-left: 60px;
+    }
+    .foot{
+        margin-left: -10px;
+    }
+}
+    @media (max-width:700px){
+        .conteiner{
+            width: 720px ;
+        }
+        .boxxing{
+            width: 786px;
+        }
+        .row{
+             width: 700px;
+        }
+        .sponsorsimg {
+            width: 100%;
+        }
+        .mapimg {
+            width: 100%;
+           }
+           .col-4{
+            width: 100%;
+           }
+           .footer-right {
+            margin-left: -52px;
+           }
+           h1{
+                width: 300px;
+                font-weight: 300;
+           }
+           .section-p{
+               width: 300px;
+           }
+           .foot {
+            margin-left: -23px;
+        }
+        footer{
+            width: 780px;
+        }
+        .kart-info2{
+            display: none;
+         }
+         .rightp-footer {
+            width: 122px;
+            margin-left: -25px;
+        }
+        .rightbox{
+            width: 200px;
+        }
+        .leftbox{
+            width: 200px;
+        }
+        .title{
+            width: 150%;
+        }
+        .vpn-ledi{ 
+            width: 300px;
+   }
+        .col-6 {
+            width: 100%;
+        }
+        .right-box {
+            margin-left: -50px;
+            width: 255px;
+        }
+        .select{
+            margin-left: 12px;
+        }
+        .select3{
+          margin-left: 12px;
+        }
+        .chekbox2{
+            margin-left:2px ;
+            margin-top: none;
+        }
+        .img-box{
+            margin-left: 30px;
+            margin-top: 50px;
+         }
+         .vpnman{
+            width: 250px;
+         }
+         .sign-in{
+            display: none;
+         }
+         .sign-in1{
+            display: none;
+         }
+         .title-right{
+             width: 300px;
+         }
+
+    }
+
