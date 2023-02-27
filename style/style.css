@@ -78,6 +78,7 @@ border-radius: 50px;
 }
 .col-6 {
     width: 50%;
+    flex-wrap: wrap;
     
 }
 .col-4 {
@@ -86,6 +87,7 @@ border-radius: 50px;
 }
 .row {
     display: flex;
+
 }
 .section-start {
     padding-top: 101px;
@@ -170,6 +172,7 @@ color: #4F5665;
 }
 .boxxing {
     background-color: #E5E5E5;
+    width: 100%;
 }
 .chekbox {
     display: flex;
@@ -490,6 +493,7 @@ border: none;
     margin-top: 60px;
     border: none;
     margin-right: 20px;
+    background-color: none;
 }
 
 .ellipsis{
@@ -602,3 +606,4 @@ color: #AFB5C0;
 .logosvg{
     margin-left:-23px;
 }
+/* fhghfhfhhfhhgfh */
